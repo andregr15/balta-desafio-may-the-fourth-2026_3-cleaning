@@ -2,7 +2,7 @@
 
 ## 🚀 May The Fourth 2026 - Desafio 3
 
-Oi, eu sou o [seu nome aqui] e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **May The Fourth 2026**, realizado pelo [balta.io](https://balta.io). 👻
+Oi, eu sou o André Gonçalves Rodrigues e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **May The Fourth 2026**, realizado pelo [balta.io](https://balta.io). 👻
 
 Aqui você vai encontrar projetos, exercícios e códigos que estou desenvolvendo durante o desafio.
 
@@ -17,12 +17,12 @@ A IA distribui tarefas de manutenção da casa (trocar filtro de água, limpar a
 #### Nível 2 - API
 - Estruturar um projeto de IA
   - Api, Ai, Core, Infra, Applicattion?
-- Expor um endpoint que recebe a entrada do usuário e retorna a receita
+- Expor um endpoint que recebe a entrada do usuário e retornar a tarefa
 
-#### Nível 2 - Fullstack + IA
+#### Nível 3 - Fullstack + IA
 - Estruturar um projeto de IA
   - Api, Ai, Core, Infra, Applicattion?, Frontend (Blazor Wasm)
-- Expor um endpoint que recebe a entrada do usuário e retorna a receita
+- Expor um endpoint que recebe a entrada do usuário e retorna a tarefa
 
 Neste processo eu aprendi:
 * ✅ 
@@ -33,8 +33,8 @@ Neste processo eu aprendi:
 ## Problema
 --
 
-## Sobre o ay The Fourth 2026
-O desafio **ay The Fourth 2026** consiste em implementar agentes e inteligência artificial em cenários reais, resolvendo problemas do dia-a-dia com Microsoft Agent Framework, C# e .NET.
+## Sobre o May The Fourth 2026
+O desafio **May The Fourth 2026** consiste em implementar agentes e inteligência artificial em cenários reais, resolvendo problemas do dia-a-dia com Microsoft Agent Framework, C# e .NET.
 
 ### Imersão - Microsoft Agents Framework
 https://www.youtube.com/watch?v=XkgjeBurtFw

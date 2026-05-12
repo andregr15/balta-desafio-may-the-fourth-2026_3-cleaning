@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MaintenanceManager.Ai/MaintenanceManager.Ai.csproj" />
+  <Project Path="MaintenanceManager.Api/MaintenanceManager.Api.csproj" />
+  <Project Path="MaintenanceManager.Core/MaintenanceManager.Core.csproj" />
+  <Project Path="MaintenanceManager.Infra/MaintenanceManager.Infra.csproj" />
+</Solution>
